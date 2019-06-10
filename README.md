@@ -1,4 +1,7 @@
 # Staff-Student-Management-Template
+git add test.txt
+  git commit -m "some message"
+  git push -u origin master
 This is a template intended for Koji App Development Platform. The tamplate is customizable to the individual pixel color.
 
 The following are the features of the system and the requirements Full feature list, and individual pages. Every Icon, every text, and every function can be modified.
